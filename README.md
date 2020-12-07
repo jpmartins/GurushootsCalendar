@@ -5,6 +5,6 @@ Ideia, to have an list of all current GuruShoots challenges that can be sorted b
 
 Filtering by time of day, also an interesting ideia, for example, all events that end at midnigth.
 
-Preferably to have and automated way to web scrap and submit update list of challenges.
+Preferably to have and automated way to use api.gurushots.com or web scrap and submit update list of challenges.
 
 Help is welcome.
